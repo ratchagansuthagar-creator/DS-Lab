@@ -1,4 +1,4 @@
-```c
+
 #include<stdio.h>
 
 #define SIZE 50
@@ -66,4 +66,4 @@ printf("\n%s obtained the total highest marks.\n",st[ni].name);
 
 return 0;
 }
-```
+
